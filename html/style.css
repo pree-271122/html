@@ -1,0 +1,35 @@
+h1{
+   
+    color: white;
+}
+*{
+   background-color: grey;
+}
+.heading{
+    background-color: red;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+.heading2{
+    margin-right: 50px;
+}
+
+.heading3{
+    justify-content: center;
+    text-align: center;
+}
+
+.games{
+    background-color: cyan;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.media{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
